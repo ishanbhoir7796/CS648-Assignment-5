@@ -1,0 +1,34 @@
+{
+    "name": "cs648-assignment-5",
+    "version": "1.0.0",
+    "description": "CS648 Assignment 5 project with Gulp and Sass",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "gulp": "gulp",
+        "sass": "gulp sass",
+        "watch": "gulp watch",
+        "build": "gulp"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ishanbhoir7796/CS648-Assignment-5.git"
+    },
+    "keywords": [
+        "gulp",
+        "sass",
+        "cs648",
+        "assignment"
+    ],
+    "author": "Ishan Bhoir",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ishanbhoir7796/CS648-Assignment-5/issues"
+    },
+    "homepage": "https://github.com/ishanbhoir7796/CS648-Assignment-5#readme",
+    "devDependencies": {
+        "gulp": "^5.0.1",
+        "gulp-sass": "^6.0.1",
+        "sass": "^1.93.2"
+    }
+}
